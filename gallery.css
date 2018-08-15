@@ -1,1 +1,69 @@
+/* cayecayecaye */
 
+body {
+  background: url("http://homepages.neiu.edu/~carroy14/CS300Project2/images/sanfran.jpeg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.wrapper {
+  background-color:white;
+  padding:10px
+  margin: 0 auto;
+}
+
+.main-container {
+  background:white;
+  max-width; 780px;
+  margin:auto;
+  padding: 10px;
+  overflow:auto;
+}
+
+h1,h2,h3,h4{
+  font-family: 'Tangerine', cursive;
+}
+
+.container {
+  width:100%;
+}
+
+.row {
+  clear:both;
+  padding-top:10px;
+  padding-bottom:10px;
+}
+
+.one-half {
+  width: 50%;
+  float:left;
+}
+
+#nav-bar ul {
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+#nav-bar li {
+  float: left;
+}
+
+#nav-bar a:link, #nav-bar a:visited {
+  display :block;
+  width: 200px;
+  font-weight: bold;
+  color: #FFFFF;
+  background-color:#e6ffe6;
+  text-align: center;
+  padding: 4px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+#nav-bar a:hover, #nav-bar a:active {
+  background-color: #a8ffae;
+}
