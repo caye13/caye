@@ -56,8 +56,8 @@ h1,h2,h3,h4{
   display :block;
   width: 200px;
   font-weight: bold;
-  color: #FFFFF;
-  background-color:#FFFFE0;
+  color: #ffe600;
+  background-color:#fff7b3;
   text-align: center;
   padding: 4px;
   text-decoration: none;
@@ -65,5 +65,5 @@ h1,h2,h3,h4{
 }
 
 #nav-bar a:hover, #nav-bar a:active {
-  background-color: #FFFF00;
+  background-color: #fff280;
 }
