@@ -10,7 +10,7 @@ body {
 
 .wrapper {
   background-color:white;
-  padding: 50px
+  padding: 10px
   margin: 0 auto;
 } 
 
@@ -18,7 +18,7 @@ body {
   background:white;
   max-width; 780px;
   margin:auto;
-  padding: 50px;
+  padding: 10px;
   overflow:auto;
 }
 
@@ -32,8 +32,8 @@ h1,h2,h3,h4{
 
 .row {
   clear:both;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .one-half {
@@ -59,7 +59,7 @@ h1,h2,h3,h4{
   color: #FFFFF;
   background-color:#E6E6FA;
   text-align: center;
-  padding: 4px;
+  padding: 10px;
   text-decoration: none;
   text-transform: uppercase;
 }
