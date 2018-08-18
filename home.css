@@ -44,7 +44,7 @@ h1,h2,h3,h4{
 #nav-bar ul {
   list-style-type:none;
   margin: 50;
-  padding: 0;
+  padding: 50;
   overflow: hidden;
 }
 
@@ -59,7 +59,7 @@ h1,h2,h3,h4{
   color: #FFFFF;
   background-color:#E6E6FA;
   text-align: center;
-  padding: 10px;
+  padding: 50px;
   text-decoration: none;
   text-transform: uppercase;
 }
