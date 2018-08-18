@@ -10,7 +10,7 @@ body {
 
 .wrapper {
   background-color:white;
-  padding: 50px
+  padding: 200px
   margin: 200 auto;
 } 
 
@@ -18,7 +18,7 @@ body {
   background:white;
   max-width; 780px;
   margin:auto;
-  padding: 50px;
+  padding: 200px;
   overflow:auto;
 }
 
@@ -59,7 +59,7 @@ h1,h2,h3,h4{
   color: #FFFFF;
   background-color:#E6E6FA;
   text-align: center;
-  padding: 50px;
+  padding: 10px;
   text-decoration: none;
   text-transform: uppercase;
 }
