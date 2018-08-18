@@ -11,7 +11,7 @@ body {
 .wrapper {
   background-color:white;
   padding: 200px
-  margin: 500 auto;
+  margin: 500px;
 } 
 
 .main-container {
@@ -43,8 +43,8 @@ h1,h2,h3,h4{
 
 #nav-bar ul {
   list-style-type:none;
-  margin: 50;
-  padding: 50;
+  margin: 10;
+  padding: 10;
   overflow: hidden;
 }
 
