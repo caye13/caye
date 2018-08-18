@@ -8,17 +8,17 @@ body {
   background-size: cover;
 }
 
-/*.wrapper {
+.wrapper {
   background-color:white;
-  padding:10px
+  padding: 50px
   margin: 0 auto;
-} */
+} 
 
 .main-container {
   background:white;
   max-width; 780px;
   margin:auto;
-  padding: 10px;
+  padding: 50px;
   overflow:auto;
 }
 
@@ -32,8 +32,8 @@ h1,h2,h3,h4{
 
 .row {
   clear:both;
-  padding-top:10px;
-  padding-bottom:10px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 .one-half {
